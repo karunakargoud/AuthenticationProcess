@@ -1,0 +1,7 @@
+C:\Users\karun\source\repos\AuthenticationProcess\AuthenticationProcess\obj\Debug\AuthenticationProcess.csproj.AssemblyReference.cache
+C:\Users\karun\source\repos\AuthenticationProcess\AuthenticationProcess\obj\Debug\AuthenticationProcess.csproj.CoreCompileInputs.cache
+C:\Users\karun\source\repos\AuthenticationProcess\AuthenticationProcess\bin\Debug\AuthenticationProcess.exe.config
+C:\Users\karun\source\repos\AuthenticationProcess\AuthenticationProcess\bin\Debug\AuthenticationProcess.exe
+C:\Users\karun\source\repos\AuthenticationProcess\AuthenticationProcess\bin\Debug\AuthenticationProcess.pdb
+C:\Users\karun\source\repos\AuthenticationProcess\AuthenticationProcess\obj\Debug\AuthenticationProcess.exe
+C:\Users\karun\source\repos\AuthenticationProcess\AuthenticationProcess\obj\Debug\AuthenticationProcess.pdb
